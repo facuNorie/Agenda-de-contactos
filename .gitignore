@@ -2,7 +2,7 @@
 
 # My
 package-lock.json
-.firebaseCongif.js
+src/firebaseConfig.js
 
 # dependencies
 /node_modules
